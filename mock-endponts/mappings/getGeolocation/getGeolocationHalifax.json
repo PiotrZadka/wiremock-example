@@ -1,0 +1,19 @@
+{
+    "request": {
+      "urlPath": "/geocode/v1/json",
+      "method": "GET",
+      "queryParameters" : {
+        "q" : {
+          "equalTo" : "Halifax"
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "opencage/getGeolocationHalifaxResponse.json"
+    }
+  }
+  

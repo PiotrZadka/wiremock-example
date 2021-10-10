@@ -1,0 +1,1156 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2486,
+        "reset": 1633910400
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "44° 38' 55.02480'' N",
+                    "lng": "63° 35' 9.41532'' W"
+                },
+                "MGRS": "20TMQ5353644084",
+                "Maidenhead": "FN84ep95qq",
+                "Mercator": {
+                    "x": -7078355.431,
+                    "y": 5536332.952
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9092218#map=17/44.64862/-63.58595",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/44.64862/-63.58595&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=44.64862&mlon=-63.58595#map=17/44.64862/-63.58595"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "CA": "124",
+                        "NORTHERN_AMERICA": "021",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "C$",
+                        "CAD$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "C$",
+                    "html_entity": "$",
+                    "iso_code": "CAD",
+                    "iso_numeric": "124",
+                    "name": "Canadian Dollar",
+                    "smallest_denomination": 5,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇨🇦",
+                "geohash": "dxfy1041h18htz4mu43q",
+                "qibla": 65.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633861500,
+                        "astronomical": 1633855680,
+                        "civil": 1633859760,
+                        "nautical": 1633857720
+                    },
+                    "set": {
+                        "apparent": 1633901820,
+                        "astronomical": 1633907580,
+                        "civil": 1633903560,
+                        "nautical": 1633905600
+                    }
+                },
+                "timezone": {
+                    "name": "America/Halifax",
+                    "now_in_dst": 1,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "ADT"
+                },
+                "what3words": {
+                    "words": "darker.inhaled.stem"
+                },
+                "wikidata": "Q2141"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 44.7112114,
+                    "lng": -63.5431999
+                },
+                "southwest": {
+                    "lat": 44.581167,
+                    "lng": -63.7226577
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "CA",
+                "ISO_3166-1_alpha-3": "CAN",
+                "_category": "place",
+                "_type": "city",
+                "city": "Halifax",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "ca",
+                "county": "Halifax County",
+                "municipality": "Halifax Regional Municipality",
+                "state": "Nova Scotia",
+                "state_code": "NS"
+            },
+            "confidence": 6,
+            "formatted": "Halifax, NS, Canada",
+            "geometry": {
+                "lat": 44.648618,
+                "lng": -63.5859487
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "53° 43' 22.52244'' N",
+                    "lng": "1° 51' 37.75464'' W"
+                },
+                "MGRS": "30UWE7518853297",
+                "Maidenhead": "IO93br63rm",
+                "Mercator": {
+                    "x": -207108.51,
+                    "y": 7083383.451
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=26703086#map=17/53.72292/-1.86049",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/53.72292/-1.86049&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=53.72292&mlon=-1.86049#map=17/53.72292/-1.86049"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "£",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇬🇧",
+                "geohash": "gcw9tevnxw8jcmqshshv",
+                "qibla": 119.08,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633847220,
+                        "astronomical": 1633840200,
+                        "civil": 1633845120,
+                        "nautical": 1633842660
+                    },
+                    "set": {
+                        "apparent": 1633886460,
+                        "astronomical": 1633893420,
+                        "civil": 1633888560,
+                        "nautical": 1633891020
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "clap.tries.long"
+                },
+                "wikidata": "Q826561"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 53.7629229,
+                    "lng": -1.8204874
+                },
+                "southwest": {
+                    "lat": 53.6829229,
+                    "lng": -1.9004874
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "_category": "place",
+                "_type": "city",
+                "city": "Calderdale",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "West Yorkshire",
+                "postcode": "HX1 1TH",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Yorkshire and the Humber",
+                "town": "Halifax"
+            },
+            "confidence": 7,
+            "formatted": "Calderdale, West Yorkshire, England, United Kingdom",
+            "geometry": {
+                "lat": 53.7229229,
+                "lng": -1.8604874
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51° 38' 49.14420'' N",
+                    "lng": "0° 3' 15.97212'' E"
+                },
+                "MGRS": "31UBT9621925885",
+                "Maidenhead": "JO01ap65mg",
+                "Mercator": {
+                    "x": 6059.866,
+                    "y": 6703016.005
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=1216069737#map=17/51.64698/0.05444",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.64698/0.05444&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.64698&mlon=0.05444#map=17/51.64698/0.05444"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "£",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇬🇧",
+                "geohash": "u10jc4p9krwzn20nqvdv",
+                "qibla": 119.32,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "High Road",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633846620,
+                        "astronomical": 1633839900,
+                        "civil": 1633844580,
+                        "nautical": 1633842240
+                    },
+                    "set": {
+                        "apparent": 1633886160,
+                        "astronomical": 1633892820,
+                        "civil": 1633888140,
+                        "nautical": 1633890480
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "manage.cowboy.offers"
+                },
+                "wikidata": "Q218260"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6470345,
+                    "lng": 0.0544867
+                },
+                "southwest": {
+                    "lat": 51.6469345,
+                    "lng": 0.0543867
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "_category": "financial",
+                "_type": "bank",
+                "bank": "Halifax",
+                "city": "Epping Forest",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Essex",
+                "county_code": "ESS",
+                "postcode": "IG10 1DN",
+                "road": "High Road",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "East of England",
+                "suburb": "Loughton",
+                "town": "Loughton"
+            },
+            "confidence": 9,
+            "formatted": "Halifax, High Road, Loughton, IG10 1DN, United Kingdom",
+            "geometry": {
+                "lat": 51.6469845,
+                "lng": 0.0544367
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "42° 46' 56.23104'' N",
+                    "lng": "72° 44' 39.47136'' W"
+                },
+                "FIPS": {
+                    "county": "50025",
+                    "state": "50"
+                },
+                "MGRS": "18TXN8451039106",
+                "Maidenhead": "FN32ps07qr",
+                "Mercator": {
+                    "x": -8097858.172,
+                    "y": 5249861.324
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2017227#map=17/42.78229/-72.74430",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/42.78229/-72.74430&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=42.78229&mlon=-72.74430#map=17/42.78229/-72.74430"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "drs72sm0zh0r047xb92t",
+                "qibla": 59.28,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633863600,
+                        "astronomical": 1633857960,
+                        "civil": 1633861920,
+                        "nautical": 1633859940
+                    },
+                    "set": {
+                        "apparent": 1633904100,
+                        "astronomical": 1633909740,
+                        "civil": 1633905780,
+                        "nautical": 1633907760
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "opting.corded.applause"
+                },
+                "wikidata": "Q1571057"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.8291433,
+                    "lng": -72.6806288
+                },
+                "southwest": {
+                    "lat": 42.7332541,
+                    "lng": -72.8069682
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "city",
+                "city": "Halifax",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Windham County",
+                "postcode": "05358",
+                "state": "Vermont",
+                "state_code": "VT"
+            },
+            "confidence": 6,
+            "formatted": "Halifax, Vermont, United States of America",
+            "geometry": {
+                "lat": 42.7822864,
+                "lng": -72.7442976
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36° 45' 57.49524'' N",
+                    "lng": "78° 55' 42.03876'' W"
+                },
+                "FIPS": {
+                    "county": "51083",
+                    "state": "51"
+                },
+                "MGRS": "17SPA8490270912",
+                "Maidenhead": "FM06ms83ot",
+                "Mercator": {
+                    "x": -8786263.074,
+                    "y": 4380959.094
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=206913#map=17/36.76597/-78.92834",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.76597/-78.92834&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.76597&mlon=-78.92834#map=17/36.76597/-78.92834"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "dnxc5vn1k39p0n28c3w5",
+                "qibla": 55.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633864800,
+                        "astronomical": 1633859640,
+                        "civil": 1633863240,
+                        "nautical": 1633861440
+                    },
+                    "set": {
+                        "apparent": 1633905840,
+                        "astronomical": 1633824600,
+                        "civil": 1633907400,
+                        "nautical": 1633909200
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "leopard.crashing.witnesses"
+                },
+                "wikidata": "Q1374283"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.781889,
+                    "lng": -78.905815
+                },
+                "southwest": {
+                    "lat": 36.744259,
+                    "lng": -78.955155
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Halifax County",
+                "state": "Virginia",
+                "state_code": "VA",
+                "town": "Halifax"
+            },
+            "confidence": 7,
+            "formatted": "Halifax, Virginia, United States of America",
+            "geometry": {
+                "lat": 36.7659709,
+                "lng": -78.9283441
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51° 23' 13.51392'' N",
+                    "lng": "0° 32' 44.73744'' E"
+                },
+                "MGRS": "31UCS2923595730",
+                "Maidenhead": "JO01gj52lv",
+                "Mercator": {
+                    "x": 60753.766,
+                    "y": 6656644.048
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=293729177#map=17/51.38709/0.54576",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.38709/0.54576&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.38709&mlon=0.54576#map=17/51.38709/0.54576"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "£",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇬🇧",
+                "geohash": "u10kk6trmpk7jxjhwctu",
+                "qibla": 119.62,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "High Street",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633846440,
+                        "astronomical": 1633839840,
+                        "civil": 1633844460,
+                        "nautical": 1633842180
+                    },
+                    "set": {
+                        "apparent": 1633886040,
+                        "astronomical": 1633892700,
+                        "civil": 1633888080,
+                        "nautical": 1633890360
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "kind.focus.rides"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.3872181,
+                    "lng": 0.545911
+                },
+                "southwest": {
+                    "lat": 51.3869488,
+                    "lng": 0.5456015
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "_category": "financial",
+                "_type": "bank",
+                "bank": "Halifax",
+                "continent": "Europe",
+                "country": "United Kingdom",
+                "country_code": "gb",
+                "county": "Medway",
+                "county_code": "MDW",
+                "house_number": "97-101",
+                "postcode": "ME7 1BL",
+                "road": "High Street",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "South East England",
+                "suburb": "Brompton",
+                "town": "Gillingham"
+            },
+            "confidence": 9,
+            "formatted": "Halifax, 97-101 High Street, Gillingham, ME7 1BL, United Kingdom",
+            "geometry": {
+                "lat": 51.3870872,
+                "lng": 0.5457604
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "41° 59' 28.36680'' N",
+                    "lng": "70° 51' 43.14600'' W"
+                },
+                "FIPS": {
+                    "county": "25023",
+                    "state": "25"
+                },
+                "MGRS": "19TCG4577050477",
+                "Maidenhead": "FN41nx67nv",
+                "Mercator": {
+                    "x": -7888320.087,
+                    "y": 5131069.25
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2395769#map=17/41.99121/-70.86199",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/41.99121/-70.86199&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=41.99121&mlon=-70.86199#map=17/41.99121/-70.86199"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "drmwgkrbs16q3jyr15kd",
+                "qibla": 60.56,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633863120,
+                        "astronomical": 1633857540,
+                        "civil": 1633861440,
+                        "nautical": 1633859520
+                    },
+                    "set": {
+                        "apparent": 1633903680,
+                        "astronomical": 1633909260,
+                        "civil": 1633905360,
+                        "nautical": 1633907280
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "punt.notable.pulsing"
+                },
+                "wikidata": "Q1019248"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 42.0264384,
+                    "lng": -70.8064953
+                },
+                "southwest": {
+                    "lat": 41.9482779,
+                    "lng": -70.9122232
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Plymouth County",
+                "state": "Massachusetts",
+                "state_code": "MA",
+                "village": "Halifax"
+            },
+            "confidence": 7,
+            "formatted": "Halifax, Plymouth County, Massachusetts, United States of America",
+            "geometry": {
+                "lat": 41.991213,
+                "lng": -70.861985
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "40° 28' 8.77764'' N",
+                    "lng": "76° 55' 53.24556'' W"
+                },
+                "FIPS": {
+                    "county": "42043",
+                    "state": "42"
+                },
+                "MGRS": "18TUK3626081617",
+                "Maidenhead": "FN10ml82fo",
+                "Mercator": {
+                    "x": -8563970.63,
+                    "y": 4906608.831
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=189020#map=17/40.46910/-76.93146",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/40.46910/-76.93146&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=40.46910&mlon=-76.93146#map=17/40.46910/-76.93146"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "dr1q1rhjx5gvgy3hxhep",
+                "qibla": 56.51,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633864500,
+                        "astronomical": 1633859040,
+                        "civil": 1633862880,
+                        "nautical": 1633860960
+                    },
+                    "set": {
+                        "apparent": 1633905240,
+                        "astronomical": 1633824240,
+                        "civil": 1633906860,
+                        "nautical": 1633908720
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "knowledge.enjoyment.shadowing"
+                },
+                "wikidata": "Q1183154"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 40.470938,
+                    "lng": -76.924537
+                },
+                "southwest": {
+                    "lat": 40.455746,
+                    "lng": -76.939739
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Dauphin County",
+                "state": "Pennsylvania",
+                "state_code": "PA",
+                "village": "Halifax"
+            },
+            "confidence": 8,
+            "formatted": "Halifax, Dauphin County, Pennsylvania, United States of America",
+            "geometry": {
+                "lat": 40.4691049,
+                "lng": -76.9314571
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36° 19' 34.14180'' N",
+                    "lng": "77° 35' 28.68612'' W"
+                },
+                "FIPS": {
+                    "county": "37083",
+                    "state": "37"
+                },
+                "MGRS": "18STF6739323241",
+                "Maidenhead": "FM16eh98bg",
+                "Mercator": {
+                    "x": -8637424.191,
+                    "y": 4320279.358
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=180199#map=17/36.32615/-77.59130",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.32615/-77.59130&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.32615&mlon=-77.59130#map=17/36.32615/-77.59130"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "dq2ydkgxptk074pfbwmh",
+                "qibla": 56.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633864440,
+                        "astronomical": 1633859340,
+                        "civil": 1633862940,
+                        "nautical": 1633861140
+                    },
+                    "set": {
+                        "apparent": 1633905540,
+                        "astronomical": 1633824300,
+                        "civil": 1633907100,
+                        "nautical": 1633908900
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "nuzzling.wrangle.collected"
+                },
+                "wikidata": "Q2026751"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.335215,
+                    "lng": -77.582867
+                },
+                "southwest": {
+                    "lat": 36.317515,
+                    "lng": -77.596407
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "city",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Halifax County",
+                "state": "North Carolina",
+                "state_code": "NC",
+                "town": "Halifax"
+            },
+            "confidence": 8,
+            "formatted": "Halifax, North Carolina, United States of America",
+            "geometry": {
+                "lat": 36.3261505,
+                "lng": -77.5913017
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "36° 19' 43.07844'' N",
+                    "lng": "77° 35' 23.06076'' W"
+                },
+                "FIPS": {
+                    "county": "37083",
+                    "state": "37"
+                },
+                "MGRS": "18STF6754123513",
+                "Maidenhead": "FM16eh98fu",
+                "Mercator": {
+                    "x": -8637250.247,
+                    "y": 4320620.868
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=38127788#map=17/36.32863/-77.58974",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/36.32863/-77.58974&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=36.32863&mlon=-77.58974#map=17/36.32863/-77.58974"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "NORTHERN_AMERICA": "021",
+                        "US": "840",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 1,
+                "currency": {
+                    "alternate_symbols": [
+                        "US$"
+                    ],
+                    "decimal_mark": ".",
+                    "disambiguate_symbol": "US$",
+                    "html_entity": "$",
+                    "iso_code": "USD",
+                    "iso_numeric": "840",
+                    "name": "United States Dollar",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "$",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "🇺🇸",
+                "geohash": "dq2ydmkvsh10rmn3bzpp",
+                "qibla": 56.44,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1633864440,
+                        "astronomical": 1633859340,
+                        "civil": 1633862940,
+                        "nautical": 1633861140
+                    },
+                    "set": {
+                        "apparent": 1633905540,
+                        "astronomical": 1633824300,
+                        "civil": 1633907100,
+                        "nautical": 1633908900
+                    }
+                },
+                "timezone": {
+                    "name": "America/New_York",
+                    "now_in_dst": 1,
+                    "offset_sec": -14400,
+                    "offset_string": "-0400",
+                    "short_name": "EDT"
+                },
+                "what3words": {
+                    "words": "bailouts.transmit.clog"
+                },
+                "wikidata": "Q2026751"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 36.335215,
+                    "lng": -77.582867
+                },
+                "southwest": {
+                    "lat": 36.317515,
+                    "lng": -77.596407
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "US",
+                "ISO_3166-1_alpha-3": "USA",
+                "_category": "place",
+                "_type": "village",
+                "continent": "North America",
+                "country": "United States",
+                "country_code": "us",
+                "county": "Halifax County",
+                "state": "North Carolina",
+                "state_code": "NC",
+                "village": "Halifax"
+            },
+            "confidence": 8,
+            "formatted": "Halifax, Halifax County, North Carolina, United States of America",
+            "geometry": {
+                "lat": 36.3286329,
+                "lng": -77.5897391
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "twitter": "https://twitter.com/OpenCage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Sun, 10 Oct 2021 16:51:17 GMT",
+        "created_unix": 1633884677
+    },
+    "total_results": 10
+}

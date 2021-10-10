@@ -1,0 +1,19 @@
+{
+    "request": {
+      "urlPathPattern": "/forecast/([a-z0-9]*)/44.648618,-63.5859487",
+      "method": "GET",
+      "queryParameters" : {
+        "units" : {
+          "equalTo" : "uk2"
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "darksky/getForecastHalifaxResponse.json"
+    }
+  }
+  
