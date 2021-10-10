@@ -11,7 +11,7 @@ npm i
 ```sh
 npm run start
 ```
-## Awailable API url
+## Available API url
 ```sh
 /api/v1/getWeather?city={cityName}
 ```
