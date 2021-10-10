@@ -16,6 +16,6 @@ http://localhost:8080/api/v1/getWeather?city=Halifax
 http://localhost:8080/geocode/v1/json?q=Halifax
 ```
 ```sh
-http://localhost:8080/forecast/<regexPattern>/44.648618,-63.5859487?units=uk2
+http://localhost:8080/forecast/apikey123/44.648618,-63.5859487?units=uk2
 ```
-Where `regexPattern` is any string containing lowercase letters and numbers `[a-z0-9]`
+Where `apikey123` is any string containing lowercase letters and numbers `[a-z0-9]`
