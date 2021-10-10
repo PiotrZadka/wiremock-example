@@ -1,6 +1,7 @@
 # How to use
 ## Requirements
 - Docker (https://www.docker.com/products/docker-desktop)
+- Docker image: https://hub.docker.com/r/rodolpheche/wiremock/
 - Postman (or any other tool to make HTTP requests such as curl)
 
 ## Starting up
