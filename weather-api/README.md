@@ -3,7 +3,7 @@
 - Node.js (used 14.18.0 LTS)
 ## Starting up
 ### Prerequesites
-This is only required if you intend to use the commented out api urls see `Closing words` at the end of this readme.
+This is only required if you intend to use the commented out api urls see `Closing words` at the end of this readme.  
 Add file `.env` in root directory with following contents
 ```sh
 GEOCODING_API_KEY=
