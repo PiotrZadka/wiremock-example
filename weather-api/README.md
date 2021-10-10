@@ -11,3 +11,8 @@ npm i
 ```sh
 npm run start
 ```
+## Awailable API url
+```sh
+/api/v1/getWeather?city={cityName}
+```
+Where `cityName` is name of the city you want to find weather forecast for.
