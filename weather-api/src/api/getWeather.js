@@ -13,7 +13,7 @@ router.get("/", (req, res) => {
   var weatherData;
   axios
     .get(
-      //`https://api.opencagedata.com/geocode/v1/json?q=${townName}&key=${GEOCODING_API_KEY}`
+      // `https://api.opencagedata.com/geocode/v1/json?q=${townName}&key=${GEOCODING_API_KEY}`
       `http://localhost:8080/geocode/v1/json?q=${townName}`
     )
     .then((response) => {
@@ -21,7 +21,7 @@ router.get("/", (req, res) => {
       lng = response.data.results[1].geometry.lng;
       axios
         .get(
-          //`https://api.darksky.net/forecast/${DARK_SKY_API_KEY}/${lat},${lng}?units=uk2`
+          // `https://api.darksky.net/forecast/${DARK_SKY_API_KEY}/${lat},${lng}?units=uk2`
           `http://localhost:8080/forecast/anyapikey123/44.648618,-63.5859487?units=uk2`
         )
         .then((response) => {
