@@ -5,7 +5,7 @@
 
 ## Starting up
 ### Prerequesites
-Add file `.env` with following contents
+Add file `.env` in root directory with following contents
 ```sh
 GEOCODING_API_KEY=
 DARK_SKY_API_KEY=
