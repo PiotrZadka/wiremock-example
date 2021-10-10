@@ -14,7 +14,7 @@ router.get("/", (req, res) => {
   axios
     .get(
       // `https://api.opencagedata.com/geocode/v1/json?q=${townName}&key=${GEOCODING_API_KEY}`
-      `http://localhost:8080/geocode/v1/json?q=${townName}`
+      `http://localhost:8080/geocode/v1/json?q=Halifax`
     )
     .then((response) => {
       lat = response.data.results[1].geometry.lat;
